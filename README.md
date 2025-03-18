@@ -60,7 +60,7 @@ This app is deployed on **Hugging Face Spaces** for easy access.
 ## 🖼️ **Screenshots**  
 | **Input Arabic Text** | **Translated English Output** |  
 |----------------------|---------------------------|  
-| ![Arabic Input](https://user-images.githubusercontent.com/your-image-link/input.png) | ![English Output](https://user-images.githubusercontent.com/your-image-link/output.png) |  
+![Arabic Input](https://github.com/user-attachments/assets/62100d23-a590-4f0d-a0b3-69e22124e0c5)|![English Output](https://github.com/user-attachments/assets/7e2b6f83-ebd2-47bb-9425-a076296ecec6)|  
 
 ---
 
